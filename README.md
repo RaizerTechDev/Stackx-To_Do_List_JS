@@ -22,7 +22,7 @@
   
 ### - O projeto Todolist é uma ótima maneira de praticar suas habilidades de programação e criar uma ferramenta útil para gerenciar suas micro tarefas diárias. 
 
-### - Nesse projeto foi aplicado conceitos aprendidos nas aulas do submódulo: Introdução ao Javascript II, onde aprendeu conceitos sobre arrays, objetos, tipos de dados, estruturas de repetição e etc.
+### - Nesse projeto foi aplicado conceitos aprendidos nas aulas do submódulo: Introdução ao Javascript II, onde aprendi conceitos sobre arrays, objetos, tipos de dados, estruturas de repetição e etc.
 
 ### - É uma todolist simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e implementar a partir daqui.
 
