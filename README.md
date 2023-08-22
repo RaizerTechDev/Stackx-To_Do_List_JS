@@ -13,26 +13,20 @@
   
 # **_Stackx-To_Do_List_JS_**
 
+### - É uma todolist simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e implementar a partir daqui.
+
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
 ## [Clique aqui e venha Gerenciar a sua (```Lista de Tarefas```)!](https://rafarz76dev-listadetarefas-stackx.netlify.app/)
 
-<br>
-
-<div align="left">
-  
-### - O projeto Todolist é uma ótima maneira de praticar suas habilidades de programação e criar uma ferramenta útil para gerenciar suas micro tarefas diárias. 
-
-### - Nesse projeto foi aplicado conceitos aprendidos nas aulas do submódulo: Introdução ao Javascript II, onde aprendi conceitos sobre arrays, objetos, tipos de dados, estruturas de repetição e etc.
-
-### - É uma todolist simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e implementar a partir daqui.
 
 <br>
 
-***
 <img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [ _Demonstração da  Lista de Tarefas ]   <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
 
 <img height="420em" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif"  align="center">
 
+<div align="left">  
+  
 <br>
 
 ***
