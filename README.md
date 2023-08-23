@@ -13,10 +13,10 @@
   
 # **_Stackx-To_Do_List_JS_**
 
-### É uma todolist simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e implementar a partir daqui ou estar _clicando_ e interagindo com o projeto.
+### É uma to-do-list simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e estar implementando ou estar _clicando_ e interagindo com o projeto.
 
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
-## [Clique aqui e venha Gerenciar a sua (```Lista de Tarefas```)!](https://rafarz76dev-listadetarefas-stackx.netlify.app/)
+## [Clique aqui e interaja criando sua (```Lista de Tarefas```)!](https://rafarz76dev-listadetarefas-stackx.netlify.app/)
 
 
 <br>
@@ -36,7 +36,7 @@
 - Uso de arrays para armazenar dinamicamente as tarefas.
 - Uso de objetos para armazenar a estrutura de dados das tarefas.
 - Utilização de foreach para iteração entre tarefas.
-- Uso do conceito de reatividade com eventos para atualizar o componente de todolist.
+- Uso do conceito de reatividade com eventos para atualizar o componente de to-do-list.
 
 <br>
 
