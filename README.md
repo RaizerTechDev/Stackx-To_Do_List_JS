@@ -16,7 +16,7 @@
 ### É uma to-do-list simples, não envolve cronogramas nem reordenação das tarefas, mas não fique acanhado, você pode aproveitar e estar implementando ou estar _clicando_ e interagindo com o projeto.
 
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
-## [Clique aqui e interaja criando sua (```Lista de Tarefas```)!](https://rafarz76dev-listadetarefas-stackx.netlify.app/)
+## [Clique aqui e interaja criando sua (```Lista de Tarefas```)!](https://raizertechdev-list.netlify.app/)
 
 
 <br>
@@ -45,8 +45,8 @@
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
-    <p>&nbsp&nbsp&nbspRafaRz76Dev<br>
-    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RafaRz76Dev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://portifolio-rafarz76dev.netlify.app/">Portfólio</a>&nbsp;</p>
+    <p>&nbsp&nbsp&nbspRafaRaizer-Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://portifolio-rafarz76dev.netlify.app/">Portfólio</a>&nbsp;</p>
 </p>
 
 
